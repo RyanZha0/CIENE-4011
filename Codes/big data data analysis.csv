@@ -1,0 +1,13 @@
+Table for vehicles,,Table for pedestrians (total),,Table for cyclists,,Table for pedestrians (Older),
+NE,62,NE,317,NE,18,NE,25
+EN,36,EN,469,EN,24,EN,36
+NW,13,NW,433,NW,1,NW,29
+WN,2,WN,481,WN,0,WN,54
+SE,85,SE,660,SE,26,SE,57
+ES,137,ES,654,ES,29,ES,60
+SW,8,SW,210,SW,13,SW,19
+WS,12,WS,576,WS,0,WS,43
+NS,365,,,NS,107,,
+SN,360,,,SN,123,,
+EW,66,,,EW,43,,
+WE,42,,,WE,33,,
